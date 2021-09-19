@@ -5,4 +5,4 @@
 - 🌐 Netwoking(NSE1, NSE2)
 - 👨‍💻 Python Developer
 - ☣️ CTF player
-- 🎲 gamer
+- 🎲 Gamer
