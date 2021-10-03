@@ -7,6 +7,7 @@
 - 🎩 Cyber Security Student
 - 🕵️ Penetration Tester
 - 🌐 Netwoking(NSE1, NSE2)
+- ☁  Cloud Technologies (1Z0-1085-21)
 - 👨‍💻 Python Developer
 - ☣️ CTF player
 - 🎲 Gamer
