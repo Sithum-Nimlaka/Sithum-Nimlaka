@@ -8,6 +8,6 @@
 - 🕵️ Penetration Tester
 - 🌐 Netwoking(NSE1, NSE2)
 - ☁  Cloud Technologies (1Z0-1085-21)
-- 👨‍💻 Python Developer
+- 👨‍💻 Developer
 - ☣️ CTF player
 - 🎲 Gamer
