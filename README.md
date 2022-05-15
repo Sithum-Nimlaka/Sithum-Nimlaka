@@ -8,6 +8,8 @@
 - 🕵️ Penetration Tester
 - 🌐 Netwoking(NSE1, NSE2)
 - ☁  Cloud Technologies (1Z0-1085-21)
-- 👨‍💻 Developer
+- 👨‍💻 Developer (Python, PHP, C#)
+- 🖥  Virtualization (VMware vSphere, Hyper-V)
+- 🖥  Windows Server (2012, 2016, 2019) 
 - ☣️ CTF player
 - 🎲 Gamer
