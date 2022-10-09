@@ -11,5 +11,6 @@
 - 👨‍💻 Developer (Python, PHP, C#)
 - 🖥  Virtualization (VMware vSphere, Hyper-V)
 - 🖥  Windows Server (2012, 2016, 2019) 
+- 🖥  Linux Server (Ubuntu, RedHat, CentOS) 
 - ☣️ CTF player
 - 🎲 Gamer
