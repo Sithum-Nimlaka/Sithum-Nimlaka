@@ -4,8 +4,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sithum-Nimlaka&layout=compact&theme=radical)](https://github.com/Sithum-Nimlaka/github-readme-stats)
 
-- 🎩 Cyber Security Student
-- 🕵️ Penetration Tester
+- 🎩 Cyber Security Student (Undergrad @SLIIT)
+- 🕵️ Penetration Tester (CEH)
 - 🌐 Netwoking(NSE1, NSE2)
 - ☁  Cloud Technologies (1Z0-1085-21 | 1Z0-1085-22 | AWS Certified Cloud Practitioner)
 - 👨‍💻 Developer (Python, PHP, C#)
